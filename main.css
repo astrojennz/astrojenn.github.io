@@ -1,4 +1,11 @@
 
+/* Este es un CSS simplificado de ejemplo. En un proyecto real, se incluiría el main.css original */
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #1e1e1e;
+    margin: 0;
+}
 body::before {
     content: "";
     background-image: url("../../images/background.jpg");
